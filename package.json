@@ -1,0 +1,24 @@
+{
+  "name": "assignment-4-sridharprasadpanneerselvam",
+  "version": "1.0.0",
+  "description": "ASSIGNMENT-4 - SRIDHAR PRASAD PANNEERSELVAM",
+  "main": "index.js",
+  "scripts": {
+    "sass": "./node_modules/.bin/node-sass styles/main.scss dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2020/assignment-4-SridharPrasadPanneerselvam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2020/assignment-4-SridharPrasadPanneerselvam/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2020/assignment-4-SridharPrasadPanneerselvam#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "sass": "^1.25.0"
+  }
+}
